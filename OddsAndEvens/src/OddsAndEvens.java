@@ -14,12 +14,14 @@ public class OddsAndEvens {
             System.out.println(name + " has picked evens! The computer will be odds.");
         }
         System.out.println("----------------------------------------");
+
         System.out.print("How many \"fingers\" do you put out? ");
         int user = input.nextInt();
         Random rand = new Random();
         int computer = rand.nextInt(6);
         System.out.println("The computer plays " + computer + " \"fingers.\"");
         System.out.println("----------------------------------------");
+
         int sum = user + computer;
         System.out.println(user + " + " + computer + " = " + sum);
         boolean oddOrEven = sum % 2 == 0; // true if even
