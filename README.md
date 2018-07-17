@@ -6,8 +6,61 @@ This project is a program that asks the user for some information about an inter
 ## Module Project - Odds or Evens
 This project is a game called "Odds and Evens". The game is similar to rock, paper, scissors. It is played between two players, in this version being you versus the computer. Each player will choose either "odds" or "evens", since you’re playing the computer you will get first pick. Once you have chosen your side, you each choose a number of fingers to play- 0 to 5. The winner is determined by whether the sum of your fingers is odd or even (depending on what you chose).
 
+<details>
+<summary>Example</summary>
+What is your name? *Ramon*
+Hi Ramon, which do you choose? (O)dds or (E)vens? *E*
+Ramon has picked evens! The computer will be odds.
+----------------------------------------
+How many "fingers" do you put out? *1*
+The computer plays 3 "fingers."
+----------------------------------------
+1 + 3 = 4
+4 is... even!
+That means Ramon wins! :)
+</details>
+
 ## Module Project - Crypto
 This project encrypts text using the Caesar cipher, an ecryption algorithm that shifts each individual character forward (or backwards) by a certain number or key. The code is then separated into groups of your desired amount of letters per group.
 
+<details>
+<summary>Example</summary>
+What would you like to encrypt? *This is an example.*
+How many times would you like to shift the code for encryption? *5*
+How many letters per group would you like this to be encrypted in? *3*
+This is your code: YMN XNX FSJ CFR UQJ 
+</details>
+
 ## Final Project - Maze Runner
 This project is a game that lets the player navigate a maze. You play by entering in which direction you would like to move and try to find your way to the end in less than 100 moves!
+
+<details>
+<summary>Example</summary>
+Where would you like to move? (R, L, U, D) *d*
+Watch out! There's a pit ahead, jump it? 
+*y*
+Here is your current position:
+. . . . . . . . . . . . . . . . . . . . 
+* * 0 * * . . . . . . . . . . . . . . . 
+. . . - * . . . . . . . . . . . . . . . 
+. . . . * . . . . . . . . . . . . . . . 
+. . . . * . . . . . . . . . . . . . . . 
+. . . . * . . . . . . . . . . . . . . . 
+. . . . 0 . . . . . . . . . . . . . . . 
+. . . . x . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . 
+
+----------------------------------------
+Where would you like to move? (R, L, U, D) 
+</details>
