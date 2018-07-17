@@ -8,15 +8,15 @@ This project is a game called "Odds and Evens". The game is similar to rock, pap
 
 <details>
 <summary>Example</summary>
-What is your name? *Ramon*
-Hi Ramon, which do you choose? (O)dds or (E)vens? *E*
-Ramon has picked evens! The computer will be odds.
-----------------------------------------
-How many "fingers" do you put out? *1*
-The computer plays 3 "fingers."
-----------------------------------------
-1 + 3 = 4
-4 is... even!
+What is your name? <i>Ramon</i><br>
+Hi Ramon, which do you choose? (O)dds or (E)vens? <i>E</i><br>
+Ramon has picked evens! The computer will be odds.<br>
+----------------------------------------<br>
+How many "fingers" do you put out? <i>1</i><br>
+The computer plays 3 "fingers."<br>
+----------------------------------------<br>
+1 + 3 = 4<br>
+4 is... even!<br>
 That means Ramon wins! :)
 </details>
 
@@ -25,9 +25,9 @@ This project encrypts text using the Caesar cipher, an ecryption algorithm that 
 
 <details>
 <summary>Example</summary>
-What would you like to encrypt? *This is an example.*
-How many times would you like to shift the code for encryption? *5*
-How many letters per group would you like this to be encrypted in? *3*
+What would you like to encrypt? <i>This is an example.</i><br>
+How many times would you like to shift the code for encryption? <i>5</i><br>
+How many letters per group would you like this to be encrypted in? <i>3</i><br>
 This is your code: YMN XNX FSJ CFR UQJ 
 </details>
 
@@ -36,31 +36,31 @@ This project is a game that lets the player navigate a maze. You play by enterin
 
 <details>
 <summary>Example</summary>
-Where would you like to move? (R, L, U, D) *d*
-Watch out! There's a pit ahead, jump it? 
-*y*
-Here is your current position:
-. . . . . . . . . . . . . . . . . . . . 
-* * 0 * * . . . . . . . . . . . . . . . 
-. . . - * . . . . . . . . . . . . . . . 
-. . . . * . . . . . . . . . . . . . . . 
-. . . . * . . . . . . . . . . . . . . . 
-. . . . * . . . . . . . . . . . . . . . 
-. . . . 0 . . . . . . . . . . . . . . . 
-. . . . x . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . . . . . 
-
-----------------------------------------
-Where would you like to move? (R, L, U, D) 
+Where would you like to move? (R, L, U, D) <i>d</i><br>
+Watch out! There's a pit ahead, jump it? <br>
+<i>y</i><br>
+Here is your current position:<br>
+. . . . . . . . . . . . . . . . . . . . <br> 
+* * 0 * * . . . . . . . . . . . . . . . <br>
+. . . - * . . . . . . . . . . . . . . . <br>
+. . . . * . . . . . . . . . . . . . . . <br>
+. . . . * . . . . . . . . . . . . . . . <br>
+. . . . * . . . . . . . . . . . . . . . <br>
+. . . . 0 . . . . . . . . . . . . . . . <br>
+. . . . x . . . . . . . . . . . . . . . <br>
+. . . . . . . . . . . . . . . . . . . . <br>
+. . . . . . . . . . . . . . . . . . . . <br>
+. . . . . . . . . . . . . . . . . . . . <br>
+. . . . . . . . . . . . . . . . . . . . <br>
+. . . . . . . . . . . . . . . . . . . . <br>
+. . . . . . . . . . . . . . . . . . . . <br>
+. . . . . . . . . . . . . . . . . . . . <br>
+. . . . . . . . . . . . . . . . . . . . <br>
+. . . . . . . . . . . . . . . . . . . . <br>
+. . . . . . . . . . . . . . . . . . . . <br>
+. . . . . . . . . . . . . . . . . . . . <br>
+. . . . . . . . . . . . . . . . . . . . <br>
+<br>
+----------------------------------------<br>
+Where would you like to move? (R, L, U, D)
 </details>
